@@ -1,0 +1,8 @@
+{
+  "name": "wiki-generator",
+  "version": "0.0.1",
+  "description": "a markdown wiki generator",
+  "main": "index.js",
+  "author": "ehomesprite",
+  "license": "MIT"
+}
